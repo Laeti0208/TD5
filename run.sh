@@ -4,4 +4,4 @@ virtualenv .env
 pip install -r requirements.txt
 
 #-> Run python program
-python main.py
+python3 main.py
